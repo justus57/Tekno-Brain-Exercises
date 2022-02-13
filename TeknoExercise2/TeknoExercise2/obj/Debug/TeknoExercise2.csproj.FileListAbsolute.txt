@@ -1,0 +1,11 @@
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\obj\Debug\TeknoExercise2.csproj.AssemblyReference.cache
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\obj\Debug\TeknoExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\TeknoExercise2.exe.config
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\TeknoExercise2.exe
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\TeknoExercise2.pdb
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\Exercise2(a).dll
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\Exercise2(a).pdb
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\bin\Debug\Exercise2(a).dll.config
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\obj\Debug\TeknoExercise2.csproj.CopyComplete
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\obj\Debug\TeknoExercise2.exe
+C:\Users\Derrick\source\repos\TeknoExercise2\TeknoExercise2\obj\Debug\TeknoExercise2.pdb
